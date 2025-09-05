@@ -9,7 +9,7 @@
 ## 💼 Experience Highlights
 
 * **Software Development Engineer @ Colorado College ITS** → Django full-stack app (2k+ DAUs), REST APIs, Docker, CI/CD.
-* **Research Assistant (Math & CS Dept)** → AR assistive tech (Unity, ARKit/ARCore), WCAG-compliant accessibility systems.
+* **Research Assistant (Math & CS Dept, Colorado College)** → AR assistive tech (Unity, ARKit/ARCore), WCAG-compliant accessibility systems.
 * **Data Research Intern (State of the Rockies)** → Geospatial analysis (pandas, ArcGIS, QGIS) of ecological trends.
 
 ---
