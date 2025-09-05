@@ -28,8 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthib-paul&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthib-paul&theme=radical&hide_border=true" height="180"/>
-</p>  
-
 ---
